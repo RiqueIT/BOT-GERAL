@@ -1,0 +1,30 @@
+{
+  "token": "",
+  "prefix": "!",
+
+  "cargo_auto": "1510647400279310377",
+  "canal_logs": "1510648372284100728",
+  "canal_status": "1510647717540663326",
+  "ip_fivem": "127.0.0.1:30120",
+
+  "categoria_ticket_denuncia": "1510647689233305710",
+  "categoria_ticket_suporte": "1510647654730825949",
+  "categoria_ticket_doacao": "1510647566268633348",
+  "categoria_ticket_adv": "1510647693431537685",
+
+  "canal_logs_ticket": "1510648369633165534",
+
+  "cargo_staff_1": "1510647167491244132",
+  "cargo_staff_2": "1510647168661327965",
+  "cargo_staff_3": "1510647199774671061",
+  "cargo_staff_4": "1510647200940687361",
+  
+  "categoria": "1507513166186151946",
+  "canal_staff": "1507513215351918725",
+  "canal_aprovados": "1507513187765981314",
+  "canal_reprovados": "1507513189657612289",
+  "canal_resultados": "1507513185685602365",
+  "cargo_staff": "1507513153989116166",
+  "cargo_aprovado": "1507555535929606184",
+  "cargo_reprovado": "1507764002661335077"
+}
