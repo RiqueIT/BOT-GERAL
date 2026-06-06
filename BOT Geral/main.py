@@ -45,7 +45,10 @@ async def carregar():
 async def main():
     async with bot:
         await carregar()
-        await bot.start(config["token"])
+
+        TOKEN = os.getenv("TOKEN")
+
+        await bot.start(TOKEN)
 
 if __name__ == "__main__":
     asyncio.run(main())
