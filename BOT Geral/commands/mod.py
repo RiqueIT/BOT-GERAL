@@ -21,7 +21,12 @@ class Mod(commands.Cog):
 
     # ➕ ADD CARGO
     @commands.command()
-    @commands.has_permissions(manage_roles=True)
+    @commands.has_any_role(
+    1513622209367769260,
+    1513622210701426709,
+    1513622212358180924,
+    1513622213541237006
+)
     async def addcargo(
         self,
         ctx,
@@ -74,7 +79,12 @@ class Mod(commands.Cog):
 
     # ➖ REMOVER CARGO
     @commands.command()
-    @commands.has_permissions(manage_roles=True)
+    @commands.has_any_role(
+    1513622209367769260,
+    1513622210701426709,
+    1513622212358180924,
+    1513622213541237006
+)
     async def remcargo(
         self,
         ctx,
